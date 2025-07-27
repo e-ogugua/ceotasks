@@ -1,0 +1,6 @@
+# CEO Tasks
+
+**CEO Tasks** is a modern team project and task manager built for developers, founders, and productive teams. Designed for both offline and cloud use, it supports solo productivity and small-team collaboration.
+...
+(Shortened for space. Use full README from earlier)
+...
