@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "dayjs": "^1.11.13",
+    "framer-motion": "^12.23.11",
     "react-beautiful-dnd": "^13.1.1"
   },
   "devDependencies": {
